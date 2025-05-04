@@ -1,6 +1,6 @@
 # Material 3 Android UI Project
 
-![App Banner](https://yourdomain.com/path-to-thumbnail-image.jpg)
+![App Banner](https://raw.githubusercontent.com/FasterSoftwareDeveloper/material3-in-sketchware-pro/refs/heads/main/yt_thumbnail.png?token=GHSAT0AAAAAADDGMEDHCQ7BNS3ANS63OCTA2AXLCRA)
 
 A modern Android UI built with **Material 3**, featuring **dynamic theming**, **Day/Night mode**, and full compatibility with **Material 3 v1.12** and **Android 14**.
 
