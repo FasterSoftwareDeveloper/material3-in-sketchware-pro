@@ -23,6 +23,14 @@ A modern Android UI built with **Material 3**, featuring **dynamic theming**, **
 - **Min SDK**: 24  
 - **Target SDK**: 35  
 - **Material 3 Library**: 1.12.0
+- 
+---
+
+> **Use this Android SDK `.jar` file:**  
+> [`android.jar (API 34)`](https://github.com/Sable/android-platforms/raw/refs/heads/master/android-34/android.jar)  
+> Recommended for compatibility with Material 3 and Android 14 in custom IDEs like Sketchware Pro.
+> 
+---
 
 ## Warning
 
